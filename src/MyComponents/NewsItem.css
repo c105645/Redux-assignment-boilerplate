@@ -1,0 +1,22 @@
+.newscard {
+    height: 520px ;
+    width: 400px;
+}
+
+.cardtitle {
+    color: white;
+}
+.imageoverlay{
+    height: 200px !important;
+}
+
+.footerContainer{
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+}
+
+
+.cardbody{
+    height:100px;
+}

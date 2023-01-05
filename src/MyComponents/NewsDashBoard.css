@@ -1,0 +1,11 @@
+
+.clspview
+{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: flex-start;
+    align-content: space-around;
+    row-gap: 50px;
+    column-gap: 100px;
+    padding: 50px;
+}

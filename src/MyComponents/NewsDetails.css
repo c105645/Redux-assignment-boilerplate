@@ -1,0 +1,20 @@
+
+.newsdetailcard {
+    min-height: 445px;
+    width: 100%
+}
+
+.newsdetailimageoverlay {
+    height: 400px;
+}
+
+.newsdetailcardtitle {
+    color: white;
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+}
+
+.newsdetailcardbody{
+    width: 100%
+}
